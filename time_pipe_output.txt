@@ -2,8 +2,8 @@ total 56
 -rw-rw-r-- 1 ngirmes ngirmes  3704 Mar  2 20:18 README.md
 -rwxrw-r-- 1 ngirmes ngirmes  1828 Mar  9 21:44 time_pipe.c
 -rwxrwxr-x 1 ngirmes ngirmes 16552 Mar  9 21:44 time_pipe_o.c
--rw-rw-r-- 1 ngirmes ngirmes   473 Mar  9 21:46 time_pipe_output.txt
+-rw-rw-r-- 1 ngirmes ngirmes     0 Mar  9 21:46 time_pipe_output.txt
 -rwxrw-r-- 1 ngirmes ngirmes  2064 Mar  9 21:43 time_shm.c
 -rwxrwxr-x 1 ngirmes ngirmes 16520 Mar  9 21:45 time_shm_o.c
--rw-rw-r-- 1 ngirmes ngirmes     0 Mar  9 21:46 time_shm_output.txt
-Elapsed time: 0.002937
+-rw-rw-r-- 1 ngirmes ngirmes   469 Mar  9 21:32 time_shm_output.txt
+Elapsed time: 0.003239 sec
